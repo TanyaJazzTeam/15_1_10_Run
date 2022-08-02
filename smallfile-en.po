@@ -3,6 +3,10 @@
 msgid "A screenshot showing amp-sidebar."
 msgstr ""
 
+#: /views/partials/footer.j2:41
+msgid "02/08/2022"
+msgstr ""
+
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
 msgstr ""
